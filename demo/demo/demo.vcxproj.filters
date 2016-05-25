@@ -24,5 +24,19 @@
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="cong.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source_Nhan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source_Chia.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cong.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
