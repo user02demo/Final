@@ -146,15 +146,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="cong.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="Source_Chia.cpp" />
     <ClCompile Include="Source_Nhan.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="cong.h" />
-    <ClInclude Include="Source_Chia.h" />
-    <ClInclude Include="Source_Nhan.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
